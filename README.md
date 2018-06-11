@@ -31,3 +31,8 @@ block.js
 
 #7 Block Js contains "Immediately Invoked Function Expressions" IIFE 
 
+#8 attributes
+When registering a new block type, the attributes property describes the shape of the attributes object you’d like to receive in the edit and save functions. Each value is a source function to find the desired value from the markup of the block.
+In the code snippet above, when loading the editor, we will extract the content value as the children of the paragraph element in the saved post’s markup
+
+
