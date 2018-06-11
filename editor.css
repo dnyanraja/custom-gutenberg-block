@@ -1,0 +1,13 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Editor CSS
+ *
+ * BLOCK: 01-basic block CSS for the editor.
+ * ----------------------------------------------------------------------------
+ */
+.wp-block-gv-gutenblock-gv-guten-block{
+	color: #000000;
+	background: inherit;
+	border: 0.2rem solid #333;
+	padding: 2rem;
+}
